@@ -402,8 +402,71 @@ library(kableExtra)
 
 ![Objective/Subjective, Quantitative/Qualitative data.](figs/data-types.png){height=70%}
 
-## Data Collection Techniques
+\FloatBarrier
 
+## Questionnaires
+
+- good for background requirements
+- good to measure system usability
+- what people say is not always what they think
+
+### Open-Ended vs Closed-Ended Questions
+
+- closed $\implies$ easier to analyze
+- open $\implies$ not limited to what researcher considered
+
+### Likert Orindal Scale Questions
+
+- rate from strongly agree to strongly disagree
+  - odd number $\implies$ neutral option
+  - even number $\implies$ no fence-sitting
+- reverse half of questions to avoid acquiescence bias
+
+### Semantic Scales
+
+- similar to Likert
+  - opposite adjectives on either end of the scale
+
+### Ranked
+
+- rank a list in order of preference
+  - forced choice
+
+### Multiple Choice
+
+- make sure all options are covered
+
+## Observation
+
+### Simple Observation
+
+- user is given a task
+  - just watch them complete it
+- no insight into through process
+
+### Think-Aloud
+
+- user is given a task
+  - watch them complete it
+  - they describe what they are thinking at each step
+- can be unnerving for participants
+
+### Co-Discovery
+
+- two users work together on a task
+  - watch them complete it
+  - they talk to each other
+- more natural than think-aloud
+  - still gives insight into through process
+
+### Ethnography
+
+- observe the user in a natural setting
+  - how do they solve their everyday problems?
+
+## Interviews
+
+![Types of interview.](figs/interviews.png){height=80%}
 
 
 
