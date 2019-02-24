@@ -379,12 +379,30 @@ library(kableExtra)
 
 ## Scenarios
 
+- description of someone using a product to achieve a goal
+  - keep product general
+  - include setting, actors, background, tools/objects
+  - use stakeholders' language
+
 
 
 
 
 
 # Data Gathering
+
+## Types of Data
+
+- qualitative, quantitative
+  - qualitative = descriptions
+  - quantitative = numerical
+- objective, subjective
+  - objective = facts
+  - subjective = opinions
+
+![Objective/Subjective, Quantitative/Qualitative data.](figs/data-types.png){height=70%}
+
+## Data Collection Techniques
 
 
 
