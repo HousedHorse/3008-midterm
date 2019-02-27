@@ -191,8 +191,97 @@ tertiary
 EZ
 
 18.
+
+Documentation
+  - Not to be used in isolation 
+  - Look at previous story 
+  - Good for understanding legislation 
+
+Contextual Inquiry  
+  - 4 Main principles 
+    - Study where User is the expert and designer is apprentice 
+    - Context: See workplace and what happens 
+    - Partnership: User and designer collaborate 
+    - Interpretation: Observations interpreted by user 
+    - Focus: Understand what to look for
+
 Observation
+  - Direct
+    - Gain insight on stakeholders task 
+    - Can result in a large amount of data 
+  - In-Direct
+    - Not often used in requirements activity 
+    - Good for logging current task 
+  - Simple Observation 
+    - User does task and we observe
+  - Think out loud 
+    - Think out loud when you do a task 
+  - Co-Discovery
+    - 2 people word out task 
+  - Ethnology
+    - Fullstory session
 
-direct
+Interview 
+  - Structured
+    - Have an interview plan
+    - Ask closed ended questions and do not probe 
+    - Just use a questionaire instead 
+  - Un-Structured 
+    - Have no Interview plan
+    - Free thought 
+  - Semi-Structured
+    - Have a plan but allow for free thought and probing
+    - Best way to interview for HCI  
 
-co-discovery
+Questionaire
+  - system usability metrics
+  - Likert ordinal Questions can be used 
+    - Strongly agree or Strongly disagree 
+    - Reverse the question in order to get rid of aquiescense bias 
+
+
+19.
+
+Interviews 
+  - Are time consuming 
+  - Get more data 
+  - Time consuming to go through data 
+
+Questionnaires 
+  - Send to mass amount of people 
+  - Get System usability metrics 
+
+Observations 
+  - Get insight into stakeholder task 
+  - Good for logging task 
+  - Not often used in requirements gathering 
+
+20.
+- Wizard of Oz Technique 
+  - The researcher is the application 
+  - Used to understand the user expectations of the application 
+  - Used in conjunction with a low fidelity prototype 
+
+21.
+Open
+  - Form links between categories 
+Axial 
+  - Flesh out links between categories 
+Selective
+  - Find relationship between categories
+
+22.
+
+Mental Model
+  - A cognitive framework that explains someone's thought process about how something works in the real world. A gooe model will help users reason better.
+  - Ease of use of the application 
+
+Distributed Congnition
+  - Emphasizes user expertise in order to accomplish task more efficiently 
+  - Power of the application 
+
+External Cognition 
+  - A cogntive framework where the emphasis is to reduce the users cognitive load. The general idea is to relieve someone of the burden 
+
+ 
+
