@@ -474,7 +474,109 @@ library(kableExtra)
 
 # User Studies
 
+## Choosing a Type of Study
 
+- evaluation goals
+  - overall
+  - pre-design
+- evaluation questions
+  - based on goals
+- types of data
+  - what types of data do you need to answer questions?
+  - \autoref{study-type}
+
+\begin{table}
+\caption{Types of data to choose from.}
+\label{study-type}
+\centering
+
+\begin{tabular}{|l|l|}
+\hline\bfseries
+Type &
+\bfseries
+Description\\
+\hline\bfseries
+Time on Task &
+Controlled lab study; data logs.\\
+\hline\bfseries
+Opinions &
+Interviews; questionnaires.\\
+
+\hline\bfseries
+Thought Process &
+Think aloud; observation; interviews.\\
+
+\hline\bfseries
+Personal Recollections &
+Interviews; questionnaires.\\
+
+\hline\bfseries
+Physiological Measures &
+Eye tracker.\\
+
+\hline\bfseries
+Real Usage Pattern &
+Ethnography; interviews.\\
+\hline
+\end{tabular}
+\end{table}
+
+## Lab-Based User Study
+
+- controlled environment
+- direct observation, "think aloud"
+- often preliminary
+
+## Field-Based User Study
+
+- regular settings
+  - for weeks, months
+- possibly more valid than lab-based
+  - data could also be messier
+
+## Web-Based User Study
+
+- more natural setting
+- uncontrolled
+- difficult to verify demographic info
+
+## Crowd-Sourced User Study
+
+- online crowdsourcing sites
+  - fast and cheap
+  - quickly gather large amounts of data
+
+## Biases and Effects
+
+- novelty effect
+  - "Hey, this is cool!"
+- Hawthorne effect
+  - "I'm in a study; I'm important!"
+- Observer-expectancy effect
+  - "I'm being watched; I'd better do this right!"
+
+## Main Types of Experiment
+
+- between subject
+  - different subject for each experimental condition
+- within subject
+  - same subjects for each experimental condition
+
+## Ethics
+
+- TCPS
+  1. Respect for Persons
+  1. Concern for Welfare
+  1. Justice
+  1. Respect Vulnerable Populations
+  1. Balance Harm and Benefits
+- summary of principles
+  1. Treat all subjects with respect.
+  1. Obtain explicit voluntary consent.
+  1. Make users feel comfortable.
+  1. Don't waste user's time.
+  1. Answer questions at any time.
+  1. Maintain user privacy.
 
 
 
@@ -482,14 +584,82 @@ library(kableExtra)
 
 # Prototyping
 
+## Why Prototype?
 
+- elicit feedback
+- refine requirements
+- choose between alternatives
+- communication with stakeholders
+- evaluate/test ideas
 
+## Low Fidelity
+
+- medium unlike final medium
+  - quick, cheap, easy to change
+- sketches
+- storyboards
+- index cards
+- Wizard of Oz
+
+### Storyboards
+
+- series of sketches
+- captions
+- numbered sequence
+- follows a scenario
+
+### Wizard of Oz
+
+- user images interacting with a computer
+  - it is a developer responding, rather than the system
+- understand user expectations
+
+### Conceptual Design
+
+- describe system
+  - based on user needs/requirements
+- what functions?
+- how are functions related?
+- what information?
+
+## High Fidelity
+
+- use materials closer to final product
+  - looks more like final system
+  - users might think they have the full system
+  - limits user imagination
+
+## Horizontal vs Vertical
+
+![Horizontal and vertical prototyping.](figs/prototypes.png){height=57%}
 
 
 
 
 # Qualitative Analysis and Cognitive Processes
 
+- subjective
+- inductive
+  - draw conclusions from smaller samples
+- affinity diagrams
+  - data grouped as "themes"
+
+## Simple Analysis
+
+- identify recurring themes
+- categorize data
+- focus on key events
+
+## Grounded Theory
+
+- derive theory from the data
+- three levels of coding
+  - open
+    - identify categories
+  - axial
+    - link to sub-categories
+  - selective
+    - find relationships between categories
 
 
 
@@ -497,12 +667,42 @@ library(kableExtra)
 
 # Inspection Methods
 
+## Heuristic Evaluation
+
+- evaluate these heuristics
+  1. visibility of system status
+  1. match between system and real world
+  1. user control and freedom
+  1. consistency and standard
+  1. error prevention
+  1. recognition over recall
+  1. flexibility and efficiency of use
+  1. aesthetic and minimalist design
+  1. error recognition + recovery
+  1. help and documentation
+- assign ratings to problems
+  0. Not a problem
+  1. Cosmetic problem
+  1. Minor problem
+  1. Major problem
+  1. Catastrophe
+
+## Cognitive Walkthrough
+
+- walk through entire app
+- ask three questions at each step
+  1. Will the user know how to accomplish the task?
+  1. Will user see what they should use to accomplish the task?
+  1. Will the user know they made the correct action from feedback?
+
 
 
 
 
 
 # Cognitive Frameworks
+
+## Gulf of Execution and Evaluation
 
 
 

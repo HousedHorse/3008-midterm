@@ -1,0 +1,58 @@
+\contentsline {section}{\numberline {1}Design Concepts}{1}{section.1}% 
+\contentsline {subsection}{\numberline {1.1}What is Design/UX?}{1}{subsection.1.1}% 
+\contentsline {subsubsection}{\numberline {1.1.1}Stages of Design Process}{1}{subsubsection.1.1.1}% 
+\contentsline {subsection}{\numberline {1.2}Advantages of Involving Users in the Design Process}{1}{subsection.1.2}% 
+\contentsline {subsection}{\numberline {1.3}Usability Goals and Testing}{1}{subsection.1.3}% 
+\contentsline {subsubsection}{\numberline {1.3.1}Testing of Usability Goals}{1}{subsubsection.1.3.1}% 
+\contentsline {subsection}{\numberline {1.4}Common Design Principles}{3}{subsection.1.4}% 
+\contentsline {subsubsection}{\numberline {1.4.1}Visibility}{3}{subsubsection.1.4.1}% 
+\contentsline {subsubsection}{\numberline {1.4.2}Affordance}{3}{subsubsection.1.4.2}% 
+\contentsline {subsubsection}{\numberline {1.4.3}Constraints}{3}{subsubsection.1.4.3}% 
+\contentsline {subsubsection}{\numberline {1.4.4}Consistency}{4}{subsubsection.1.4.4}% 
+\contentsline {subsubsection}{\numberline {1.4.5}Feedback}{4}{subsubsection.1.4.5}% 
+\contentsline {section}{\numberline {2}Requirements Gathering}{4}{section.2}% 
+\contentsline {subsection}{\numberline {2.1}Basic Tasks}{4}{subsection.2.1}% 
+\contentsline {subsection}{\numberline {2.2}Basic Principles}{4}{subsection.2.2}% 
+\contentsline {subsection}{\numberline {2.3}Personas}{4}{subsection.2.3}% 
+\contentsline {subsection}{\numberline {2.4}Scenarios}{4}{subsection.2.4}% 
+\contentsline {section}{\numberline {3}Data Gathering}{5}{section.3}% 
+\contentsline {subsection}{\numberline {3.1}Types of Data}{5}{subsection.3.1}% 
+\contentsline {subsection}{\numberline {3.2}Questionnaires}{6}{subsection.3.2}% 
+\contentsline {subsubsection}{\numberline {3.2.1}Open-Ended vs Closed-Ended Questions}{6}{subsubsection.3.2.1}% 
+\contentsline {subsubsection}{\numberline {3.2.2}Likert Orindal Scale Questions}{6}{subsubsection.3.2.2}% 
+\contentsline {subsubsection}{\numberline {3.2.3}Semantic Scales}{6}{subsubsection.3.2.3}% 
+\contentsline {subsubsection}{\numberline {3.2.4}Ranked}{6}{subsubsection.3.2.4}% 
+\contentsline {subsubsection}{\numberline {3.2.5}Multiple Choice}{6}{subsubsection.3.2.5}% 
+\contentsline {subsection}{\numberline {3.3}Observation}{6}{subsection.3.3}% 
+\contentsline {subsubsection}{\numberline {3.3.1}Simple Observation}{6}{subsubsection.3.3.1}% 
+\contentsline {subsubsection}{\numberline {3.3.2}Think-Aloud}{6}{subsubsection.3.3.2}% 
+\contentsline {subsubsection}{\numberline {3.3.3}Co-Discovery}{6}{subsubsection.3.3.3}% 
+\contentsline {subsubsection}{\numberline {3.3.4}Ethnography}{7}{subsubsection.3.3.4}% 
+\contentsline {subsection}{\numberline {3.4}Interviews}{7}{subsection.3.4}% 
+\contentsline {section}{\numberline {4}User Studies}{8}{section.4}% 
+\contentsline {subsection}{\numberline {4.1}Choosing a Type of Study}{8}{subsection.4.1}% 
+\contentsline {subsection}{\numberline {4.2}Lab-Based User Study}{8}{subsection.4.2}% 
+\contentsline {subsection}{\numberline {4.3}Field-Based User Study}{8}{subsection.4.3}% 
+\contentsline {subsection}{\numberline {4.4}Web-Based User Study}{8}{subsection.4.4}% 
+\contentsline {subsection}{\numberline {4.5}Crowd-Sourced User Study}{8}{subsection.4.5}% 
+\contentsline {subsection}{\numberline {4.6}Biases and Effects}{8}{subsection.4.6}% 
+\contentsline {subsection}{\numberline {4.7}Main Types of Experiment}{9}{subsection.4.7}% 
+\contentsline {subsection}{\numberline {4.8}Ethics}{9}{subsection.4.8}% 
+\contentsline {section}{\numberline {5}Prototyping}{9}{section.5}% 
+\contentsline {subsection}{\numberline {5.1}Why Prototype?}{9}{subsection.5.1}% 
+\contentsline {subsection}{\numberline {5.2}Low Fidelity}{9}{subsection.5.2}% 
+\contentsline {subsubsection}{\numberline {5.2.1}Storyboards}{9}{subsubsection.5.2.1}% 
+\contentsline {subsubsection}{\numberline {5.2.2}Wizard of Oz}{9}{subsubsection.5.2.2}% 
+\contentsline {subsubsection}{\numberline {5.2.3}Conceptual Design}{10}{subsubsection.5.2.3}% 
+\contentsline {subsection}{\numberline {5.3}High Fidelity}{10}{subsection.5.3}% 
+\contentsline {subsection}{\numberline {5.4}Horizontal vs Vertical}{10}{subsection.5.4}% 
+\contentsline {section}{\numberline {6}Qualitative Analysis and Cognitive Processes}{11}{section.6}% 
+\contentsline {subsection}{\numberline {6.1}Simple Analysis}{11}{subsection.6.1}% 
+\contentsline {subsection}{\numberline {6.2}Grounded Theory}{11}{subsection.6.2}% 
+\contentsline {section}{\numberline {7}Inspection Methods}{11}{section.7}% 
+\contentsline {subsection}{\numberline {7.1}Heuristic Evaluation}{11}{subsection.7.1}% 
+\contentsline {subsection}{\numberline {7.2}Cognitive Walkthrough}{11}{subsection.7.2}% 
+\contentsline {section}{\numberline {8}Cognitive Frameworks}{12}{section.8}% 
+\contentsline {subsection}{\numberline {8.1}Gulf of Execution and Evaluation}{12}{subsection.8.1}% 
+\contentsline {section}{\numberline {9}Conceptual/Mental Models}{12}{section.9}% 
+\contentsline {section}{\numberline {10}Types of Interfaces in HCI}{12}{section.10}% 
