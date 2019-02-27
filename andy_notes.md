@@ -1,5 +1,117 @@
 ### Interaction design 
+- Designing interactive products to support the way people communicate in their everyday and working lives 
 
+### Advantages of involving users in the design process. 
+- Get user feedback from users that actually will use your product 
+- Users becomes stakeholder (Invested in the application doing well)
+
+### Specifying usability goals and using them in testing.
+- Effectiveness 
+- Efficient 
+- Safety 
+- Utility 
+- Learnability
+- Memorability 
+- SULEEM
+
+### Common Design Principles 
+- Feeback 
+- Affordance 
+- Constraint 
+- Visibility 
+
+### Questionaire 
+
+#### Pros
+- Measure system usability 
+- Background requirement research 
+
+#### Cons 
+- Order of the questions matter
+
+### Questionnaire Question Types 
+
+#### Likert 
+- Scale from strongly disagree to agree 
+
+#### Semantic Scale 
+- One side is easy to on side is hard to use 
+
+#### Reversed Questions 
+- Get rid of aquiesence bias 
+
+### Observation 
+
+#### Simple 
+- Ask the user to do an action and observe
+
+#### Think-Aloud 
+- User goes through the task and thinks out loud 
+
+#### Co-discovery 
+- When you get to people to complete a task and they talk out loud 
+
+### Interviews 
+
+#### Unstructured
+- Talk out loud 
+- Alot of data to analyse 
+
+#### Structured 
+- Close ended 
+- Planned
+- Equally effective as a questionaire 
+
+#### Semi-structure 
+- Planned and has the ability to probe
+
+### Types of user studies 
+
+#### Lab-bases 
+- Controlled in Labs 
+- Controlled conditions 
+- Lacks real word application
+
+#### Field Base 
+- In the real world 
+- Valuable data 
+- Takes a long time to conduct and parse 
+
+#### Web based studies 
+- Gather data from online sources 
+- Cost effective
+- More natural setting 
+- May be difficult to get consent 
+- More natural setting but is uncontrolled 
+
+#### Crowd source study 
+- Quickly gather large amounts of data 
+- Collect data through large crowdsourcing website 
+
+### Usability Testing 
+- Improve product 
+- Procedure planned 
+- Results inform design 
+
+### Usability reseach 
+- Discover knowledge 
+- Many participants 
+- Scientific reports 
+
+### Beteen subjects 
+- Use different subjects for experiment 
+
+### Within Subjects 
+- Same subject for the experiments 
+
+### Novelty Effects 
+- This study is cool 
+
+### Hawtthorne 
+- Better perform well in this study 
+
+### Observer expectancy effect 
+- I'm being watched, I better do this right 
 
 ### Mental Model
   - A cognitive framework that explains someone's thought process about how something works in the real world. A gooe model will help users reason better.
