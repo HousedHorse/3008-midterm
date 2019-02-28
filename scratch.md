@@ -9,6 +9,8 @@ Three questions at each stage
 1. Is the correct feedback provided?
    - does the user know what happened
 
+- go through entire system
+- focus on learnability
 
 
 
@@ -61,7 +63,6 @@ Repetition
 Alignment
 Proximity
 
-## Human Centered Design
 
 
 
@@ -71,8 +72,11 @@ Proximity
 
 - mental model
   - learnability focus
+  - people form connections with real world
+  - "a word processor is like a typewriter"
 - external cognition
   - take cognition load off the user
+  - like a to-do list helps us remember
 
 
 

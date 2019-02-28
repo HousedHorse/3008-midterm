@@ -175,39 +175,38 @@
 ### Mental Model
   - A cognitive framework that explains someone's thought process about how something works in the real world. A gooe model will help users reason better.
   - Ease of use of the application 
-#### How does a mental model get formed 
-  - 
+ 
 
 ### Distributed Congnition
-  - Emphasizes user expertise in order to accomplish task more efficiently 
-  - Power of the application 
+  - Emphasizes user expertise in order to accomplish task more efficiently
+  - Power of the application
 
 ### External Cognition
-  - A cogntive framework where the emphasis is to reduce the users cognitive load. The general idea is to relieve someone of the burden 
+  - A cogntive framework where the emphasis is to reduce the users cognitive load. The general idea is to relieve someone of the burden
 
 
-### Cognitive Walkthrough 
- - 3 Questions 
+### Cognitive Walkthrough
+ - 3 Questions
     - Does the user know what to do ?
     - Do they see how accomplish the action?
     - Does the user know how to proceed  from the feedback given ?
   Pros:
-    - Emphasizes learnability of the interface 
-    - Work in a team in order to find flaws 
-  Cons: 
-    - Relatively time consuming as it requires a team 
+    - Emphasizes learnability of the interface
+    - Work in a team in order to find flaws
+  Cons:
+    - Relatively time consuming as it requires a team
 
 ### Wizard-of-oz
- - Work through the low fidelity prototype with a real users 
- - Develope an understanding of how the user feels during the application 
+ - Work through the low fidelity prototype with a real users
+ - Develope an understanding of how the user feels during the application
 
-### Heuristic evaluation 
- - We don't have to recruit real users 
+### Heuristic evaluation
+ - We don't have to recruit real users
  - Heuristic evaluation can cover much more of the interface in a short time
- - Can continue if application has broken features 
+ - Can continue if application has broken features
 
-### Gulf of execution 
-- The gap of what to do and how to do it 
+### Gulf of execution
+- The gap of what to do and how to do it
 
 ### Gulf of evaluation 
 - The gap of understanding what happens in the system 
@@ -216,19 +215,20 @@
 - Information Processing: conceptualizes human performance in metaphorical terms of information processing stages 
 - Based on modeling mental activities that happen exclusively inside the head 
 
+ 
 
 ### GOMS
-  - Goals 
-    - What the users wants to achieve 
-  - Operator 
-    - Congnitive processes and physical actions needed to obtain goals 
-  - Method 
+  - Goals
+    - What the users wants to achieve
+  - Operator
+    - Congnitive processes and physical actions needed to obtain goals
+  - Method
     - Procedure to accomplish goals
-  - Selection rules 
-    - Decide which method to select when there is more than on 
+  - Selection rules
+    - Decide which method to select when there is more than on
 
-### Conceptual Model 
-  - High level description of how a system is organized and operates 
+### Conceptual Model
+  - High level description of how a system is organized and operates
 
 #### How are conceptual models formed 
 - Designer mental/Conceptual model is the model of the system 
@@ -239,22 +239,22 @@
   - What kind of interface metaphor if any will be appropriate 
   - What kind of interaction modes and styles to use 
 ### Interface Metaphors
-- Interface designed to be similar to a physical entity 
-- Generate many possible metaphors 
+- Interface designed to be similar to a physical entity
+- Generate many possible metaphors
 
-### Interaction types 
+### Interaction types
 
-#### Instructing 
-- Issuing commands and selecting options 
+#### Instructing
+- Issuing commands and selecting options
 
 #### Conversing 
 - Interacting with a system as if having a conversation 
 - Google home 
 - Misunderstanding arises when system does'nt know how to respond 
 - Allows novice users to interact in a way that is familliar 
-
-#### Manipulating 
-- Intercating with objects in a virtual or physical space by manipulating them 
+ 
+#### Manipulating
+- Intercating with objects in a virtual or physical space by manipulating them
 
 #### Exploring 
 - Moving through a virtual or physical environment 
@@ -326,3 +326,4 @@
     - Entertainment -> Implicit mapping 
   - Types of physical artifacts to use 
     - Bricks, cubes, and stickies 
+
